@@ -1,0 +1,20 @@
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.LoanAmortization.resources
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\LG\Documents\Visual Studio 2017\Projects\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\LG\Desktop\github\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\LG\Desktop\github\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\LG\Desktop\github\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.LoanAmortization.resources
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\LG\Desktop\github\Project2\Project2\obj\Debug\Project2.pdb
